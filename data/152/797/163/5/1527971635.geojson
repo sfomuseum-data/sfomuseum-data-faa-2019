@@ -1,0 +1,71 @@
+{
+  "id": 1527971635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-01-01T05:07:53",
+    "edtf:inception": "2019-01-01T05:07:53",
+    "faa:credit": "http://weather.gov/",
+    "faa:delay": false,
+    "faa:delay_count": 0,
+    "faa:last_update": "Last Updated on Jan 1 2019, 4:56 am PST",
+    "faa:temperature_c": 8.3,
+    "faa:temperature_f": 47,
+    "faa:temperature_raw": "47.0 F (8.3 C)",
+    "faa:visibility": 10,
+    "faa:wind_direction": "Northeast",
+    "faa:wind_raw": "Northeast at 5.8",
+    "faa:wind_speed": 5.8,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 37.62,
+    "geom:longitude": -122.37,
+    "mz:is_current": 0,
+    "sfomuseum:placetype": "weather",
+    "sfomuseum:uri": "2019/01/01/20190101T050753.json",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      554784711, 
+      85688637, 
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583, 
+      102085387
+    ],
+    "wof:concordances": {
+      "iata:code": "SFO",
+      "icao:code": "KSFO"
+    },
+    "wof:country": "US",
+    "wof:created": 1546319273,
+    "wof:geomhash": "6e11b039d229c1f441fd06b875619d83",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      }, 
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1527971635,
+    "wof:lastmodified": 1580419206,
+    "wof:name": "FAA status for SFO, 2019-01-01T05:07:53",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": null,
+  "geometry": {"coordinates":[-122.37,37.62],"type":"Point"}
+}
