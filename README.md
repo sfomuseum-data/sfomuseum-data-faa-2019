@@ -9,6 +9,8 @@ This is highly experiental work right now. If you are planning to try using it, 
 ## Example
 
 ```
+$> cat data/152/798/162/1/1527981621.geojson
+
 {
   "id": 1527981621,
   "type": "Feature",
@@ -39,7 +41,7 @@ This is highly experiental work right now. If you are planning to try using it, 
     "mz:is_current":0,
     "sfomuseum:placetype":"weather",
     "sfomuseum:uri":"2019/05/29/20190529T012253.json",
-    "src:geom":"unknown",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +81,7 @@ This is highly experiental work right now. If you are planning to try using it, 
         }
     ],
     "wof:id":1527981621,
-    "wof:lastmodified":1580425156,
+    "wof:lastmodified":1580494138,
     "wof:name":"FAA status for SFO, 2019-05-29T01:22:53",
     "wof:parent_id":102527513,
     "wof:placetype":"custom",
